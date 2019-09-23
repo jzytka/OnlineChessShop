@@ -1,0 +1,31 @@
+<nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-lg">
+    <a class="navbar-brand" href="#"><img src=""/></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarToggler">
+        <ul class="navbar-nav ml-auto" style="font-size: 17px">
+            <li class="nav-item mr-4">
+                <a class="nav-link" href="/login" style="color: orange">Login</a>
+            </li>
+            <li class="nav-item mr-4">
+                <a class="nav-link" href="/register" style="color: orange">Register</a>
+            </li>
+            <li class="nav-item mr-4">
+                <a class="nav-link" href="/home">Home</a>
+            </li>
+            <li class="nav-item mr-4">
+                <a class="nav-link" href="#offer">Offer</a>
+            </li>
+            <li class="nav-item mr-4">
+                <a class="nav-link" href="#about-us">About us</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#contact">Contact</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link ml-5" href="/shopping-cart" style="color: orange">Shopping Cart</a>
+            </li>
+        </ul>
+    </div>
+</nav>
